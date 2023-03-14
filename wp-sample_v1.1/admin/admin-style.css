@@ -1,0 +1,20 @@
+/*
+admin style
+*/
+label {
+  display: inline-block;
+}
+
+.smart-cf-repeat-btn.dashicons-plus-alt:after {
+  content: "入力欄を増やす";
+  font-size: 12px;
+  margin-right: 10px
+  vertical-align: middle;
+}
+
+.smart-cf-repeat-btn.dashicons-dismiss:after {
+  content: "入力欄を削除";
+  font-size: 12px;
+  margin-right: 10px
+  vertical-align: middle;
+}
